@@ -1,0 +1,13 @@
+2025/12/19-12:02:29.890 1191 Reusing MANIFEST /home/Shinobid/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/12/19-12:02:29.890 1191 Recovering log #7
+2025/12/19-12:02:29.890 1191 Reusing old log /home/Shinobid/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000007.log 
+2025/12/19-12:02:30.030 11a9 Level-0 table #11: started
+2025/12/19-12:02:30.031 11a9 Level-0 table #11: 623 bytes OK
+2025/12/19-12:02:30.033 11a9 Delete type=0 #7
+2025/12/19-12:02:30.033 11a6 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 97 : 1
+2025/12/19-12:02:30.033 11a6 Compacting 1@0 + 1@1 files
+2025/12/19-12:02:30.034 11a6 Generated table #12@0: 36 keys, 1108 bytes
+2025/12/19-12:02:30.034 11a6 Compacted 1@0 + 1@1 files => 1108 bytes
+2025/12/19-12:02:30.036 11a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/19-12:02:30.036 11a6 Delete type=2 #11
+2025/12/19-12:02:30.036 11a6 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 97 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

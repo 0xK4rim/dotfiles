@@ -1,0 +1,200 @@
+[2025-12-19 05:24:34.496] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-12-19 05:24:34.499] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-12-19 05:24:34.499] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-12-19 05:24:34.500] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-12-19 05:24:34.761] [info]  💻 System Info: {"platform":"linux","release":"6.18.1-arch1-2","arch":"x64","model":"13th Gen Intel(R) Core(TM) i7-13620H","cpuCount":16,"gpu":{"active":true,"deviceId":42920,"gpuPreference":0,"vendorId":32902}}
+[2025-12-19 05:24:41.549] [info]  💻 System Info: {"platform":"linux","release":"6.18.1-arch1-2","arch":"x64","model":"13th Gen Intel(R) Core(TM) i7-13620H","cpuCount":16,"gpu":{"active":true,"deviceId":42920,"gpuPreference":0,"vendorId":32902}}
+[2025-12-19 05:24:57.262] [info]  🔄 Resetting image paths
+[2025-12-19 05:25:01.166] [info]  🖼️ Updating Image Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.167] [info]  📄 Selected File Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.168] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.169] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.170] [info]  🖼 Selected Image Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.170] [info]  📁 Selected Image Directory:  /home/Shinobid/Wallpapers
+[2025-12-19 05:25:01.171] [info]  🖼 imagePath:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.172] [info]  🔤 Extension:  png
+[2025-12-19 05:25:01.185] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:01.186] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Wallpapers/wallhaven-e88r8o_1920x1200.png
+[2025-12-19 05:25:34.191] [info]  🔄 Resetting image paths
+[2025-12-19 05:38:37.426] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-12-19 05:38:37.428] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-12-19 05:38:37.428] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-12-19 05:38:37.429] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-12-19 05:38:37.691] [info]  💻 System Info: {"platform":"linux","release":"6.18.1-arch1-2","arch":"x64","model":"13th Gen Intel(R) Core(TM) i7-13620H","cpuCount":16,"gpu":{"active":true,"deviceId":42920,"gpuPreference":0,"vendorId":32902}}
+[2025-12-19 12:02:29.642] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-12-19 12:02:29.645] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-12-19 12:02:29.645] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-12-19 12:02:29.646] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-12-19 12:02:30.032] [info]  💻 System Info: {"platform":"linux","release":"6.18.1-arch1-2","arch":"x64","model":"13th Gen Intel(R) Core(TM) i7-13620H","cpuCount":16,"gpu":{"active":true,"deviceId":42920,"gpuPreference":0,"vendorId":32902}}
+[2025-12-19 12:02:43.357] [info]  🔄 Resetting image paths
+[2025-12-19 12:02:46.604] [info]  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.605] [info]  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.607] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.608] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.609] [info]  🖼 Selected Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.610] [info]  📁 Selected Image Directory:  /home/Shinobid/Customization/Wallpapers
+[2025-12-19 12:02:46.610] [info]  🖼 imagePath:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.611] [info]  🔤 Extension:  png
+[2025-12-19 12:02:46.622] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:46.623] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:02:54.359] [info]  🔄 Resetting Upscaled Image Path
+[2025-12-19 12:02:54.362] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Customization/Wallpapers","outFile":"/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:02:54.363] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/Shinobid/Customization/Wallpapers/1326230.png',
+  '-o',
+  '/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png',
+  '-s',
+  '2',
+  '-m',
+  '/usr/share/upscayl/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-12-19 12:02:54.379] [info]  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:02:54.380] [info]  🛑 Updating Stopped:  false
+[2025-12-19 12:02:54.381] [info]  🚀 Starting Upscayl - Copyright © 2024
+
+[2025-12-19 12:02:54.382] [info]  🏁 UPSCAYL
+[2025-12-19 12:02:54.383] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Customization/Wallpapers","outFile":"/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:02:54.383] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Customization/Wallpapers","outFile":"/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:02:54.384] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/Shinobid/Customization/Wallpapers/1326230.png,-o,/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-12-19 12:02:54.384] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/Shinobid/Customization/Wallpapers/1326230.png,-o,/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-12-19 12:02:54.384] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:02:54.384] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:02:54.385] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-12-19 12:02:54.385] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-12-19 12:02:54.385] [info]  ✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:02:54.385] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+
+[2025-12-19 12:02:54.385] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+
+[2025-12-19 12:02:54.386] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+
+[2025-12-19 12:02:54.386] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+
+[2025-12-19 12:02:54.386] [info]  🎒 BACKEND REPORTED:  ✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:02:54.386] [info]  🎒 BACKEND REPORTED:  ✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:02:54.387] [info]  🚧 UPSCAYL_PROGRESS:  ✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:02:54.387] [info]  🚧 UPSCAYL_PROGRESS:  ✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:02:54.403] [info]  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:02:54.405] [info]  🎒 BACKEND REPORTED:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:02:54.406] [info]  🎒 BACKEND REPORTED:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:02:54.406] [info]  🔄 Resetting image paths
+[2025-12-19 12:02:54.406] [info]  🚧 UPSCAYL_PROGRESS:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:02:54.406] [info]  🔄 Resetting image paths
+[2025-12-19 12:02:54.406] [info]  🚧 UPSCAYL_PROGRESS:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:02:54.407] [info]  🔄 Resetting image paths
+[2025-12-19 12:02:54.407] [info]  🔄 Resetting image paths
+[2025-12-19 12:03:00.356] [info]  🔄 Resetting image paths
+[2025-12-19 12:03:02.476] [info]  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.478] [info]  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.480] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.481] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.481] [info]  🖼 Selected Image Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.481] [info]  📁 Selected Image Directory:  /home/Shinobid/Customization/Wallpapers
+[2025-12-19 12:03:02.482] [info]  🖼 imagePath:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.482] [info]  🔤 Extension:  png
+[2025-12-19 12:03:02.492] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:02.493] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/Shinobid/Customization/Wallpapers/1326230.png
+[2025-12-19 12:03:10.157] [info]  📁 Updating Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.157] [info]  📁 Selected Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.158] [info]  🎒 BACKEND REPORTED:  📁 Updating Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.158] [info]  🎒 BACKEND REPORTED:  📁 Updating Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.159] [info]  🗂 Setting Output Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.170] [info]  🎒 BACKEND REPORTED:  📁 Selected Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:03:10.170] [info]  🎒 BACKEND REPORTED:  📁 Selected Folder Path:  /home/Shinobid/Wallpapers
+[2025-12-19 12:04:12.115] [info]  🔄 Resetting Upscaled Image Path
+[2025-12-19 12:04:12.116] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":"42920","saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Wallpapers","outFile":"/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:04:12.117] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/Shinobid/Customization/Wallpapers/1326230.png',
+  '-o',
+  '/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png',
+  '-s',
+  '2',
+  '-m',
+  '/usr/share/upscayl/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-g',
+  '42920',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-12-19 12:04:12.127] [info]  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:04:12.127] [info]  🛑 Updating Stopped:  false
+[2025-12-19 12:04:12.128] [info]  🏁 UPSCAYL
+[2025-12-19 12:04:12.129] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:04:12.130] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":"42920","saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Wallpapers","outFile":"/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:04:12.131] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":"42920","saveImageAs":"png","inputDir":"/home/Shinobid/Customization/Wallpapers","fileNameWithExt":"1326230.png","outputDir":"/home/Shinobid/Wallpapers","outFile":"/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","fileName":"1326230","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-12-19 12:04:12.133] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/Shinobid/Customization/Wallpapers/1326230.png,-o,/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-g,42920,-f,png,-c,0
+[2025-12-19 12:04:12.134] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/Shinobid/Customization/Wallpapers/1326230.png,-o,/home/Shinobid/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-g,42920,-f,png,-c,0
+[2025-12-19 12:04:12.134] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:04:12.134] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/Shinobid/Customization/Wallpapers/1326230.png","-o","/home/Shinobid/Customization/Wallpapers/1326230_upscayl_2x_upscayl-standard-4x.png","-s","2","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-12-19 12:04:12.135] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-12-19 12:04:12.137] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-12-19 12:04:12.138] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:04:12.138] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:04:12.139] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:04:12.139] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-12-19 12:04:12.160] [info]  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:04:12.162] [info]  🎒 BACKEND REPORTED:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:04:12.162] [info]  🎒 BACKEND REPORTED:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:04:12.163] [info]  🔄 Resetting image paths
+[2025-12-19 12:04:12.164] [info]  🚧 UPSCAYL_PROGRESS:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:04:12.164] [info]  🔄 Resetting image paths
+[2025-12-19 12:04:12.164] [info]  🚧 UPSCAYL_PROGRESS:  vkEnumeratePhysicalDevices failed -3
+🚨 Error: Invalid GPU Device
+
+[2025-12-19 12:04:12.165] [info]  🔄 Resetting image paths
+[2025-12-19 12:04:12.165] [info]  🔄 Resetting image paths

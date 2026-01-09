@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+x-scheme-handler/anytype=anytype.desktop
