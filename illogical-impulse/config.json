@@ -288,7 +288,7 @@
             "enable": false
         },
         "night": {
-            "automatic": true,
+            "automatic": false,
             "colorTemperature": 5000,
             "from": "19:00",
             "to": "06:30"
