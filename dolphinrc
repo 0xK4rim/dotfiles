@@ -3,7 +3,6 @@ PreviewSize=32
 
 [General]
 GlobalViewProps=false
-RememberOpenedTabs=false
 ShowFullPath=true
 ShowStatusBar=FullWidth
 Version=202

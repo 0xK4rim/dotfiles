@@ -607,6 +607,7 @@
 /home/Shinobid/.config/quickshell/ii/modules/ii/polkit/PolkitContent.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/polkit/Polkit.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/regionSelector/CircleSelectionDetails.qml
+/home/Shinobid/.config/quickshell/ii/modules/ii/regionSelector/CursorGuide.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/regionSelector/OptionsToolbar.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/regionSelector/RectCornersSelectionDetails.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/regionSelector/RegionFunctions.qml
@@ -943,10 +944,13 @@
 /home/Shinobid/.config/quickshell/ii/services/Ydotool.qml
 /home/Shinobid/.config/quickshell/ii/settings.qml
 /home/Shinobid/.config/quickshell/ii/shell.qml
+/home/Shinobid/.config/quickshell/ii/translations/de_DE.json
 /home/Shinobid/.config/quickshell/ii/translations/en_US.json
 /home/Shinobid/.config/quickshell/ii/translations/he_HE.json
+/home/Shinobid/.config/quickshell/ii/translations/id_ID.json
 /home/Shinobid/.config/quickshell/ii/translations/it_IT.json
 /home/Shinobid/.config/quickshell/ii/translations/ja_JP.json
+/home/Shinobid/.config/quickshell/ii/translations/pt_BR.json
 /home/Shinobid/.config/quickshell/ii/translations/ru_RU.json
 /home/Shinobid/.config/quickshell/ii/translations/tools/guide/translation-tools-guide.md
 /home/Shinobid/.config/quickshell/ii/translations/tools/guide/translation-tools-guide-zh_CN.md
