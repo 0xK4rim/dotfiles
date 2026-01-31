@@ -149,6 +149,7 @@ toolBarFont=Google Sans Flex,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
 Theme=breeze-plus-dark
 
 [KDE]
+ShowDeleteCommand=false
 widgetStyle=Darkly
 
 [KFileDialog Settings]
@@ -156,9 +157,6 @@ Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
@@ -171,6 +169,10 @@ Sort reversed=false
 Speedbar Width=168
 View Style=Simple
 
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
 [Sounds]
 Theme=freedesktop
 
@@ -182,4 +184,3 @@ activeForeground=228,226,223
 inactiveBackground=69,75,65
 inactiveBlend=161,169,177
 inactiveForeground=223,228,215
-

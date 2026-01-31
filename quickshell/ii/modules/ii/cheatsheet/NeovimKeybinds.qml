@@ -12,9 +12,6 @@ Item {
     Component.onCompleted: {
         // Example shortcuts to demonstrate different options
         keymapsArray = [
-            // Basic insert mode exit
-            { "lhs": "jj", "rhs": "<Esc>", "desc": "Example" },
-
             { "lhs": ".", "rhs": "Repeat last change" },
             { "lhs": "u", "rhs": "Undo last change" },
             { "lhs": "<C-R>", "rhs": "Redo last change" },
@@ -30,33 +27,15 @@ Item {
             { "lhs": "K/J", "rhs": "[VISUAL MODE] Move the selected text up/down" },
             { "lhs": "J", "rhs": "Append the line below to the current line" },
             { "lhs": "<C-u/d>", "rhs": "Navigate page up/down" },
-
-            // Visual mode yank
-            { "lhs": "y", "rhs": "y$", "desc": "Yank to end of line" },
-
-            // Motion + text object
-            { "lhs": "daw", "rhs": "Delete a word", "desc": "Delete word under cursor" },
-
-            // Mapping with description but no rhs
-            { "lhs": "gd", "desc": "Jump to definition" },
-
-            // Mapping with rhs but no description
+            { "lhs": "y", "rhs": "y$",  },
+            { "lhs": "daw", "rhs": "Delete a word",  },
+            { "lhs": "gd", "rhs": "Jump to definition" },
             { "lhs": "<C-^>", "rhs": ":b#<CR>" },
-
-            // Complex leader sequence
-            { "lhs": "<leader>fg", "rhs": ":Telescope live_grep<CR>", "desc": "Search text in project" },
-
-            // Command with multiple keys
-            { "lhs": "<leader>fb", "rhs": ":Telescope buffers<CR>", "desc": "Switch buffer" },
-
-            // Shortcut with special keys
-            { "lhs": "<Tab>", "rhs": "Next completion item", "desc": "Tab in insert mode completion" },
-
-            // Shortcut with multiple modifiers
-            { "lhs": "<C-S-Tab>", "rhs": "Previous completion item", "desc": "Shift+Ctrl+Tab" },
-
-            { "lhs": "<C-w> w", "rhs": "Move to the next window (in the order of creation)"},
-            { "desc": "Extension Shortcuts" },
+            { "lhs": "<C-w> w/W", "rhs": "Move to the next/previous window (in the order of creation)"},
+            { "lhs": "gt/T", "rhs": "Move to the next/previous tab"},
+            { "desc": ""},
+            { "desc": "---------------------------------------------------------------------------------- Extension Shortcuts ----------------------------------------------------------------------------------"},
+            { "desc": ""},
             { "lhs": "<C-p>", "rhs": "Telescope: Search files inside the current working directory" },
             { "lhs": "<leader>fg", "rhs": "Telescope: Search in the files in the project (live_grep)"},
             { "lhs": "K", "rhs": "LSP: Hover"},
@@ -75,6 +54,11 @@ Item {
             { "lhs": "<leader>a", "rhs": "Harpoon: add (to the end)"},
             { "lhs": "<leader>A", "rhs": "Harpoon: prepend (to the beginning)"},
             { "lhs": "<C-[F1-F4]>", "rhs": "Harpoon: Select file [1-4]"},
+            { "lhs": "<leader>lc", "rhs": "VimTeX: Compile"},
+            { "lhs": "<leader>lk", "rhs": "VimTeX: Stop compile"},
+            { "lhs": "<leader>lv", "rhs": "VimTeX: Open viewer"},
+            { "lhs": "<leader>li", "rhs": "VimTeX: Inverse search"},
+            { "lhs": "<leader>ll", "rhs": "VimTeX: Start/Stop continous compilation"},
         ]
     }
 
@@ -100,10 +84,11 @@ Item {
                     Text { text: modelData.lhs || ""; font.bold: true; color: "white"; width: 120; elide: Text.ElideRight }
 
                     // Description
-                    Text { text: modelData.desc ? ("— " + modelData.desc) : ""; color: "white"; width: 300; elide: Text.ElideRight }
+
+                    Text { text: modelData.desc ? ("" + modelData.desc) : ""; color: "white"; width: 800; horizontalAlignment: Text.AlignCenter; font.bold: true;}
 
                     // Command executed
-                    Text { text: modelData.rhs ? ("— " + modelData.rhs) : ""; color: "white"; width: 180; horizontalAlignment: Text.AlignRight }
+                    Text { text: modelData.rhs ? ("— " + modelData.rhs) : ""; color: "white"; width: 410; horizontalAlignment: Text.AlignRight }
                 }
             }
         }
