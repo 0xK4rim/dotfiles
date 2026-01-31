@@ -12,6 +12,12 @@ function CP
   nvim "$CP_ROOT/$argv[1]"
 end
 
+# LaTeX Template
+function templatex
+  set -l DIR ~/.config/LaTeX-Template
+  cp "$DIR/letterfonts.tex" "$DIR/macros.tex" "$DIR/preamble.tex" "$DIR/template.tex" ./
+end
+
 if status is-interactive # Commands to run in interactive sessions can go here
 
     # No greeting
