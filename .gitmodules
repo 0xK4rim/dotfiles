@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/0xK4rim/nvim-config
+[submodule "LaTex-Templates"]
+  path = LaTeX-Templates
+  url = https://github.com/0xK4rim/LaTeX-Templates
