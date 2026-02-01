@@ -6,18 +6,6 @@ function fish_prompt -d "Write out the prompt"
         (set_color $fish_color_cwd) (prompt_pwd) (set_color normal)
 end
 
-# Fast CP
-function CP
-  set -l CP_ROOT ~/K/Study/CP/
-  nvim "$CP_ROOT/$argv[1]"
-end
-
-# LaTeX Template
-function templatex
-  set -l DIR ~/.config/LaTeX-Template
-  cp "$DIR/letterfonts.tex" "$DIR/macros.tex" "$DIR/preamble.tex" "$DIR/template.tex" ./
-end
-
 if status is-interactive # Commands to run in interactive sessions can go here
 
     # No greeting
@@ -34,6 +22,5 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias ls 'eza --icons'
     alias clear "printf '\033[2J\033[3J\033[1;1H'"
     alias q 'qs -c ii'
-    alias EditNvimCheatsheet "nvim ~/.config/quickshell/ii/modules/ii/cheatsheet/NeovimKeybinds.qml"
 end
 
