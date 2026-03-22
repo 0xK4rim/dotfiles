@@ -1,4 +1,7 @@
+[Added Associations]
+text/x-cmake=Neovim-2.desktop;Neovim.desktop;
 
 [Default Applications]
-x-scheme-handler/discord=vesktop.desktop
+text/x-cmake=Neovim-2.desktop;
 x-scheme-handler/anytype=anytype.desktop
+x-scheme-handler/discord=vesktop.desktop
