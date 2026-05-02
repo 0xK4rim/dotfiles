@@ -121,6 +121,7 @@ msg ""
 # 1) Replace fish config
 msg "-- 1) Replace fish config --"
 copy_file_no_backup "$SRC_FISH" "$DST_FISH"
+cp "${BACKUP_ROOT}/.config/fish/functions/*" "${HOME_DIR}/.config/fish/functions/"
 msg ""
 
 # 2) Replace Cheatsheet.qml

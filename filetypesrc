@@ -1,2 +1,3 @@
 [EmbedSettings]
+embed-application/pdf=false
 embed-text/x-cmake=false

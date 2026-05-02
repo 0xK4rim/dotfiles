@@ -43,7 +43,7 @@ Item {
             { "desc": ""},
             { "lhs": "<C-p>", "rhs": "Telescope: Search files inside the current working directory" },
             { "lhs": "<leader>fg", "rhs": "Telescope: Search in the files in the project (live_grep)"},
-            { "lhs": "K", "rhs": "LSP: Hover"},
+            { "lhs": "<leader>k", "rhs": "LSP: Hover"},
             { "lhs": "<leader>gd", "rhs": "LSP: Go to the definition"},
             { "lhs": "<leader>gr", "rhs": "LSP: Go to the reference"},
             { "lhs": "<leader>ta", "rhs": "LSP: Take action"},

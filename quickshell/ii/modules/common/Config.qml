@@ -217,7 +217,7 @@ Singleton {
                     property bool vertical: false
                     property bool autoVertical: false
                     property bool enableWorkspace: true
-                    property real workspaceZoom: 1.07 // Relative to your screen, not wallpaper size
+                    property real workspaceZoom: 1.0 // Relative to wallpaper size
                     property bool enableSidebar: true
                     property real widgetsFactor: 1.2
                 }
@@ -573,6 +573,7 @@ Singleton {
             }
 
             property JsonObject updates: JsonObject {
+                property bool enableCheck: true
                 property int checkInterval: 120 // minutes
                 property int adviseUpdateThreshold: 75 // packages
                 property int stronglyAdviseUpdateThreshold: 200 // packages
