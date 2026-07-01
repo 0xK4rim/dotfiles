@@ -18,13 +18,21 @@
 /home/Shinobid/.config/hypr/hypridle.conf
 /home/Shinobid/.config/hypr/hypridle.conf.new
 /home/Shinobid/.config/hypr/hyprland/colors.conf
+/home/Shinobid/.config/hypr/hyprland/colors.lua
 /home/Shinobid/.config/hypr/hyprland.conf
 /home/Shinobid/.config/hypr/hyprland.conf.new
 /home/Shinobid/.config/hypr/hyprland/env.conf
+/home/Shinobid/.config/hypr/hyprland/env.lua
 /home/Shinobid/.config/hypr/hyprland/execs.conf
+/home/Shinobid/.config/hypr/hyprland/execs.lua
 /home/Shinobid/.config/hypr/hyprland/general.conf
+/home/Shinobid/.config/hypr/hyprland/general.lua
 /home/Shinobid/.config/hypr/hyprland/keybinds.conf
+/home/Shinobid/.config/hypr/hyprland/keybinds.lua
+/home/Shinobid/.config/hypr/hyprland/lib/init.lua
+/home/Shinobid/.config/hypr/hyprland.lua
 /home/Shinobid/.config/hypr/hyprland/rules.conf
+/home/Shinobid/.config/hypr/hyprland/rules.lua
 /home/Shinobid/.config/hypr/hyprland/scripts/ai/license_show-loaded-ollama-models.txt
 /home/Shinobid/.config/hypr/hyprland/scripts/ai/primary-buffer-query.sh
 /home/Shinobid/.config/hypr/hyprland/scripts/ai/show-loaded-ollama-models.sh
@@ -34,7 +42,11 @@
 /home/Shinobid/.config/hypr/hyprland/scripts/start_geoclue_agent.sh
 /home/Shinobid/.config/hypr/hyprland/scripts/workspace_action.sh
 /home/Shinobid/.config/hypr/hyprland/scripts/zoom.sh
+/home/Shinobid/.config/hypr/hyprland/services/create_custom_config.lua
+/home/Shinobid/.config/hypr/hyprland/services/init.lua
 /home/Shinobid/.config/hypr/hyprland/shellOverrides/main.conf
+/home/Shinobid/.config/hypr/hyprland/shellOverrides/main.lua
+/home/Shinobid/.config/hypr/hyprland/variables.lua
 /home/Shinobid/.config/hypr/hyprlock.conf
 /home/Shinobid/.config/hypr/hyprlock.conf.new
 /home/Shinobid/.config/hypr/monitors.conf
@@ -64,6 +76,7 @@
 /home/Shinobid/.config/matugen/templates/gtk-3.0/gtk.css
 /home/Shinobid/.config/matugen/templates/gtk-4.0/gtk.css
 /home/Shinobid/.config/matugen/templates/hyprland/colors.conf
+/home/Shinobid/.config/matugen/templates/hyprland/colors.lua
 /home/Shinobid/.config/matugen/templates/hyprland/hyprlock-colors.conf
 /home/Shinobid/.config/matugen/templates/kde/color.txt
 /home/Shinobid/.config/matugen/templates/kde/kde-material-you-colors-wrapper.sh
@@ -351,6 +364,7 @@
 /home/Shinobid/.config/quickshell/ii/modules/common/models/AdaptedMaterialScheme.qml
 /home/Shinobid/.config/quickshell/ii/modules/common/models/AnimatedTabIndexPair.qml
 /home/Shinobid/.config/quickshell/ii/modules/common/models/FolderListModelWithHistory.qml
+/home/Shinobid/.config/quickshell/ii/modules/common/models/gCloud/GCloudApi.qml
 /home/Shinobid/.config/quickshell/ii/modules/common/models/gCloud/GCloudTranslate.qml
 /home/Shinobid/.config/quickshell/ii/modules/common/models/gCloud/GCloudVision.qml
 /home/Shinobid/.config/quickshell/ii/modules/common/models/gCloud/GCloudVisionResult.qml
@@ -569,6 +583,7 @@
 /home/Shinobid/.config/quickshell/ii/modules/ii/bar/weather/WeatherCard.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/bar/weather/WeatherPopup.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/bar/Workspaces.qml
+/home/Shinobid/.config/quickshell/ii/modules/ii/cheatsheet/CheatsheetKeybindsCategory.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/cheatsheet/CheatsheetKeybinds.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/cheatsheet/CheatsheetPeriodicTable.qml
 /home/Shinobid/.config/quickshell/ii/modules/ii/cheatsheet/Cheatsheet.qml

@@ -34,13 +34,13 @@ SRC_KITTY="${BACKUP_ROOT}/.config/kitty/kitty.conf"
 DST_KITTY="${HOME_DIR}/.config/kitty/kitty.conf"
 
 # Hypr keybinding possible files (prefer keybindings.conf)
-HYPR_A="${HOME_DIR}/.config/hypr/hyprland/keybindings.conf"
-HYPR_B="${HOME_DIR}/.config/hypr/hyprland/keybinds.conf"
+HYPR_A="${HOME_DIR}/.config/hypr/hyprland/keybindings.lua"
+HYPR_B="${HOME_DIR}/.config/hypr/hyprland/keybinds.lua"
 
 # Lines to remove (we'll match them robustly with regex)
 # (we won't use these verbatim for matching; they are for user reference only)
-LINE_A_REF='bind = Super, B, global, quickshell:sidebarLeftToggle # [hidden]'
-LINE_B_REF='bind = Super, O, global, quickshell:sidebarLeftToggle # [hidden]'
+LINE_A_REF='hl.bind("SUPER + B", hl.dsp.global("quickshell:sidebarLeftToggle"))'
+LINE_B_REF='hl.bind("SUPER + O", hl.dsp.global("quickshell:sidebarLeftToggle"))'
 
 msg() { printf '%s\n' "$*"; }
 plan() { msg "DRY-RUN: $*"; }
@@ -103,9 +103,9 @@ edit_hypr_remove_lines_robust() {
   # We accept optional whitespace everywhere, and optional trailing comment after the toggle.
   # Two patterns: Super, B and Super, O
   sed -E -i \
-    -e '/^[[:space:]]*bind[[:space:]]*=[[:space:]]*Super[[:space:]]*,[[:space:]]*B[[:space:]]*,[[:space:]]*global[[:space:]]*,[[:space:]]*quickshell:sidebarLeftToggle([[:space:]]*#.*)?$/d' \
-    -e '/^[[:space:]]*bind[[:space:]]*=[[:space:]]*Super[[:space:]]*,[[:space:]]*O[[:space:]]*,[[:space:]]*global[[:space:]]*,[[:space:]]*quickshell:sidebarLeftToggle([[:space:]]*#.*)?$/d' \
-    "$target"
+  -e '/^[[:space:]]*hl\.bind\([[:space:]]*"SUPER[[:space:]]*\+[[:space:]]*B"[[:space:]]*,[[:space:]]*hl\.dsp\.global\([[:space:]]*"quickshell:sidebarLeftToggle"[[:space:]]*\)[[:space:]]*\)[[:space:]]*$/d' \
+  -e '/^[[:space:]]*hl\.bind\([[:space:]]*"SUPER[[:space:]]*\+[[:space:]]*O"[[:space:]]*,[[:space:]]*hl\.dsp\.global\([[:space:]]*"quickshell:sidebarLeftToggle"[[:space:]]*\)[[:space:]]*\)[[:space:]]*$/d' \
+  "$target"
 
   msg "Edited: $target (removed matching lines if present)."
   return 0
@@ -121,7 +121,7 @@ msg ""
 # 1) Replace fish config
 msg "-- 1) Replace fish config --"
 copy_file_no_backup "$SRC_FISH" "$DST_FISH"
-cp "${BACKUP_ROOT}/.config/fish/functions/*" "${HOME_DIR}/.config/fish/functions/"
+cp -r "${BACKUP_ROOT}/.config/fish/functions/." "${HOME_DIR}/.config/fish/functions/"
 msg ""
 
 # 2) Replace Cheatsheet.qml

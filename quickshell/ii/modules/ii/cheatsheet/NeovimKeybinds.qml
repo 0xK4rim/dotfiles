@@ -46,7 +46,7 @@ Item {
             { "lhs": "<leader>k", "rhs": "LSP: Hover"},
             { "lhs": "<leader>gd", "rhs": "LSP: Go to the definition"},
             { "lhs": "<leader>gr", "rhs": "LSP: Go to the reference"},
-            { "lhs": "<leader>ta", "rhs": "LSP: Take action"},
+            { "lhs": "<leader>act", "rhs": "LSP: Take action"},
             { "lhs": "<leader>suba", "rhs": "LSP: Rename all occurences (the whole workspace)"},
             { "lhs": "<leader>subw", "rhs": "[None]: Rename all occurences (the whole file)"},
             { "lhs": "<leader>x", "rhs": "[None]: Make the current file executable"},

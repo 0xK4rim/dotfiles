@@ -2,5 +2,4 @@
 
 ## Credits
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland): nearly everything
-- [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM): SDDM theme
-
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock): SDDM theme
