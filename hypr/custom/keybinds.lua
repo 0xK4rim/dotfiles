@@ -8,5 +8,5 @@ hl.bind("CTRL + SUPER + ALT + Slash", hl.dsp.exec_cmd("xdg-open ~/.config/hypr/c
 
 -- Apps
 hl.bind("SUPER + B", hl.dsp.exec_cmd("~/.config/hypr/hyprland/scripts/launch_first_available.sh firefox")) -- Browser
-hl.bind("SUPER + SHIFT + B", hl.dsp.exec_cmd("firefox --private-window")) -- Open private tab
+hl.bind("SUPER + CTRL + B", hl.dsp.exec_cmd("firefox --private-window")) -- Open private tab
 hl.bind("SUPER + O", hl.dsp.exec_cmd("sh -c 'sleep 0.2 && hyprctl dispatch dpms off'")) -- Turn the screen off

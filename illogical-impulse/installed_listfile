@@ -952,6 +952,7 @@
 /home/Shinobid/.config/quickshell/ii/services/GlobalFocusGrab.qml
 /home/Shinobid/.config/quickshell/ii/services/GoogleCloud.qml
 /home/Shinobid/.config/quickshell/ii/services/hyprlandAntiFlashbangShader/anti-flashbang.glsl
+/home/Shinobid/.config/quickshell/ii/services/hyprlandAntiFlashbangShader/anti-flashbang-weak.glsl
 /home/Shinobid/.config/quickshell/ii/services/HyprlandAntiFlashbangShader.qml
 /home/Shinobid/.config/quickshell/ii/services/HyprlandConfig.qml
 /home/Shinobid/.config/quickshell/ii/services/HyprlandData.qml

@@ -49,6 +49,7 @@ Item {
             { "lhs": "<leader>act", "rhs": "LSP: Take action"},
             { "lhs": "<leader>suba", "rhs": "LSP: Rename all occurences (the whole workspace)"},
             { "lhs": "<leader>subw", "rhs": "[None]: Rename all occurences (the whole file)"},
+            { "lhs": "<leader>subs", "rhs": "[None]: Rename all occurences (the selected text)"},
             { "lhs": "<leader>x", "rhs": "[None]: Make the current file executable"},
             { "lhs": "<leader>gf", "rhs": "None-ls: Fix formatting for the whole file"},
             { "lhs": "<C-n>", "rhs": "Neotree: Show Neotree"},

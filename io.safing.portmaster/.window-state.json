@@ -1,11 +1,11 @@
 {
   "main": {
-    "width": 1948,
-    "height": 1228,
+    "width": 1960,
+    "height": 1240,
     "x": 0,
     "y": 0,
-    "prev_x": 0,
-    "prev_y": 0,
+    "prev_x": 20,
+    "prev_y": 20,
     "maximized": true,
     "visible": true,
     "decorated": true,
